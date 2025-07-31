@@ -1,0 +1,16 @@
+body {
+  font-family: 'Inter', sans-serif;
+  color: #111;
+}
+
+.hero-section h1 {
+  font-size: 2.5rem;
+}
+
+.training-card .card-img-overlay {
+  background: rgba(0, 0, 0, 0.4);
+}
+
+.training-card button {
+  width: fit-content;
+}
